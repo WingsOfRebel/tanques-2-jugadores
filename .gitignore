@@ -1,0 +1,56 @@
+# Proyecto de Unity - Tanques 2 jugadores
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Los .meta solo se ignoran si el asset también se ignora
+!/[Aa]ssets/**/*.meta
+
+# Editores
+.vs/
+.vscode/
+.gradle/
+.idea/
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Archivos de solución y proyecto generados automáticamente
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Otros
+sysinfo.txt
+crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# La carpeta docs/ (build WebGL para GitHub Pages) SÍ se sube
+
+# Reporte generado por la herramienta del editor
+Tanques_reporte.txt
+Tanques_construccion.txt
