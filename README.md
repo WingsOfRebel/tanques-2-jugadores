@@ -14,8 +14,8 @@ tutorial "Tanks!" de Unity, siguiendo el PDF del profesor, ampliada para la Acti
 
 ## Enlaces
 
-- **Jugar en el navegador:** PENDIENTE (se llena al publicar)
-- **Repositorio:** PENDIENTE (se llena al subir)
+- **Jugar en el navegador:** https://wingsofrebel.github.io/tanques-2-jugadores/
+- **Repositorio:** https://github.com/WingsOfRebel/tanques-2-jugadores
 
 ## Controles
 
@@ -44,13 +44,13 @@ responder mientras el otro dispara, es el teclado, no el juego.
 
 | ID | Requisito | Estado |
 |---|---|---|
-| RF-01 | Nombre y matrícula en la esquina superior derecha | Hecho en código (por probar) |
-| RF-02 | Código en GitHub y juego publicado | Pendiente |
-| RF-03 | Música de fondo: marcha fúnebre | Script listo, falta la grabación |
-| RF-04 | El juego termina cuando un jugador pierde 5 veces | Hecho en código (por probar) |
-| RF-05 | Pantalla del ganador con puntaje y tiempo | Hecho en código (por probar) |
-| RF-06 | Temporizador máximo de 4 minutos; si llega a 0 ambos pierden | Hecho en código (por probar) |
-| RF-07 | Enemigos que obstaculizan a los tanques | Hecho en código (por probar) |
+| RF-01 | Nombre y matrícula en la esquina superior derecha | Hecho y probado |
+| RF-02 | Código en GitHub y juego publicado | Hecho (repositorio y versión WebGL en la carpeta `docs/`) |
+| RF-03 | Música de fondo: marcha fúnebre | Hecho y probado |
+| RF-04 | El juego termina cuando un jugador pierde 5 veces | Hecho y probado |
+| RF-05 | Pantalla del ganador con puntaje y tiempo | Hecho y probado |
+| RF-06 | Temporizador máximo de 4 minutos; si llega a 0 ambos pierden | Hecho y probado |
+| RF-07 | Enemigos que obstaculizan a los tanques | Hecho y probado |
 
 ## Estructura de scripts (`Assets/Scripts`)
 
@@ -65,5 +65,5 @@ responder mientras el otro dispara, es el teclado, no el juego.
 ## Créditos
 
 - Modelos, sonidos y arte: paquete gratuito "Tanks!" de Unity Technologies (Unity Companion License).
-- Música: PENDIENTE (título, autor, licencia y enlace de la marcha fúnebre).
+- Música: Frédéric Chopin, Sonata para piano n.º 2, Op. 35, III. "Marche funèbre", interpretada por Andreas Xenopoulos (vía Musopen). Dominio público, licencia CC0 1.0. Enlace: https://commons.wikimedia.org/wiki/File:Frederic_Chopin_Piano_Sonata_No.2_in_B_flat_minor_Op35_-_III_Marche_Funebre.ogg
 - Guía del juego base: PDF "Videojuego para 2 jugadores en 3D ortográfico", prof. Iván Mendoza.
